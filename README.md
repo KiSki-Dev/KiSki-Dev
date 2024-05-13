@@ -7,6 +7,7 @@
 - Over the next years, I made smaller **[Python](https://www.python.org/)** Projects, learned to use **[Linux](https://en.wikipedia.org/wiki/Linux)**, played alot **[HackTheBox](https://www.hackthebox.com/)** and I learned a bit of **[HTML](https://en.wikipedia.org/wiki/Hypertext_Markup_Language)**, **[JS](https://en.wikipedia.org/wiki/JavaScript)** and **[CSS](https://en.wikipedia.org/wiki/Cascading_Style_Sheets)**.<br>
 - With 14 years old I learned **[C#](https://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp)**. My first good **[C#](hhttps://learn.microsoft.com/en-us/dotnet/csharp/tour-of-csharp)** Program was a **[GUI Version of AutoOffline](https://github.com/KiSki-Dev/AutoOffline)**. After finishing this, I made some smaller Programs/Projects.<br>
 - A few Months later, I started learning **[Unity](https://unity.com/en)** to make my first professional Game! This Game is still in Production but I am planning to release it on **[Steam](https://store.steampowered.com/)**.<br>
+- I completed a two-week internship as an Application Developer at **[Loh Services](https://www.friedhelm-loh-group.com/en/unternehmensgruppe/loh-services.asp)** (Subsidiary from **[Friedhelm Loh Group](https://www.friedhelm-loh-group.com/en/)**) as part of my school curriculum.
 ------------
 
 💙 If you like to help me, you apply as a Developer, Designer or Animator in my Team.<br>
